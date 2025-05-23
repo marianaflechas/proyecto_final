@@ -96,7 +96,7 @@ El desempleo fue cediendo gradualmente, aunque con altos niveles de informalidad
 **(2023-2024)**
 La menor inversión y la incertidumbre por reformas elevaron nuevamente el desempleo, sobre todo en jóvenes y población vulnerable.""")
 
-    dm = pd.read_csv('DatosLimpios2.csv')
+    dm = pd.read_csv('Datoslimpios2.csv')
 
 
     
