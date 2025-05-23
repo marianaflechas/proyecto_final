@@ -16,7 +16,7 @@ tab1, tab2, tab3 = st.tabs(['ANALISIS DESEMPEÑO ECONOMICO', 'ANALISIS DISCURSIV
 
 
 with tab1:
-    st.header('ANALISIS UNIVARIADO')
+    st.header('ANALISIS POR INDICADORES')
 
     df = pd.read_csv('Datoslimpios.csv')
 
