@@ -116,6 +116,8 @@ Los anuncios de cambios en política económica y energética generaron alta vol
 
 with tab2:
 
+    nltk.download('stopwords')
+
     stop_words = set(stopwords.words('spanish'))
 
     def procesar_texto(archivo):
